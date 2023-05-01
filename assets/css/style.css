@@ -109,7 +109,7 @@ a {
 .heading .overview {
   position: relative;
   display: flex;
-  height: calc(100vh - 93px);
+  height: 624px;
 }
 
 .overview .info {
